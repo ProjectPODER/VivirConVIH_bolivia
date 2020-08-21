@@ -52,6 +52,7 @@ graph:
           - toCenter: '#706F74'
           - toContractType: '#706F74'
           - toOrganization: '#706F74'
+  - descriptionLink: "Ir al perfil"
 
   #Format of the contracts_url: releases_json, records_json_api, csv
   # releases_json: {releases: [] }
@@ -111,3 +112,10 @@ collections:
 # Set to false to hide excerpts on the posts page
 show_excerpts: true
 future: true
+
+# Set the date language in the posts and post page (en/es).
+date-language: "en"
+
+# Set the date format in the posts and post page.
+# Other formats: "%a, %b %d, %y" | "%Y" | "%b %d, %y" | "%Y-%m-%d %H:%M"
+date-format: "%B %-d, %Y"
