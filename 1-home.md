@@ -1,17 +1,19 @@
 ---
 layout: home
-title: Home
+title: Inicio
 permalink: /
 ---
 
-# THIS IS THE FIRST TITLE
+# Bolivia: la lucha contra el VIH pierde terreno frente al COVID-19
 
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
+Durante la pandemia se ha registrado falta de atención médica en diversos centros
+especializados para pacientes seropositivos, acceso limitado a su medicinas y retrasos
+en la realización de pruebas de control, según ha denunciado la Red Nacional de
+Personas que viven con el VIH/SIDA en Bolivia (RedBol), una organización que desde
+hace 20 años lucha por los derechos de quienes portan el virus de inmunodeficiencia
+humana.
 
-This will be another paragraph, as it has a blank line above it.
-
-[Website version](https://towerbuilder.projectpoder.org/)
-[Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
-[Visualization iframe](https://towerbuilder.projectpoder.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.projectpoder.org/iframe-slider/)
+[Reportaje](/2018/11/27/reportaje.html)
+[Entrevista]()
+[Testimonios]()
+[Contratos]()
