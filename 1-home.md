@@ -14,6 +14,6 @@ hace 20 años lucha por los derechos de quienes portan el virus de inmunodeficie
 humana.
 
 [Reportaje](/2018/11/27/reportaje.html)
-[Entrevista]()
-[Testimonios]()
-[Contratos]()
+[Entrevista](/entrevista/)
+[Testimonios](/testimonios/)
+[Contratos](/contratos/)

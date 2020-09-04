@@ -17,9 +17,16 @@ El 19 de junio, mes en el que el país alcanzaba el pico más alto de contagios,
 
 Además, la RedBol asegura que también se dispuso de equipos de laboratorio y de personal médico del programa VIH/SIDA para atender casos de coronavirus.  “El Ministerio de Salud debe hallar la manera de responder a los desafíos de la emergencia sanitaria causada por el coronavirus sin cercenar y mutilar la respuesta a otras enfermedades”, indica un documento firmado por los representantes de las personas que viven con VIH en Bolivia. El uso de estos recursos debió hacerse de forma consensuada y con información clara y oportuna sobre sus consecuencias, aseveran.   
 
+{:.image-post}
+![Toma de muestra a la presidenta de la REDBOL, Violeta Ross, en el CDVIR La Paz, Crédito: Esther Mamani]({{ site.baseurl }}/assets/img/Toma de muestra a la presidenta de la REDBOL, Violeta Ross, en el CDVIR La Paz, 2 Crédito Esther Mamani.jpg)
+
 Se ha registrado falta de atención médica en los centros especializados para pacientes seropositivos (CDVIR), acceso limitado a su medicación en zonas alejadas y retrasos en la realización de pruebas de control, indica Virginia Hilaquita, vicepresidenta de la RedBol, sobre el impacto de la pandemia en la población con VIH.
 
 El 12 de junio, a través de un instructivo firmado por el Programa Nacional ITS/VIH/SIDA y Hepatitis Virales (PNVIH), se instó a los centros departamentales para la atención de personas seropositivas, población en riesgo y sospechosa (CDVIR) a disponer de los equipos de GeneXpert para el diagnóstico de COVID-19. La tecnología de estos equipos permite analizar en corto tiempo el material genético de diversas enfermedades entre las que se encuentran la TBC y el VIH. 
+
+{:.image-post}
+![Puerta de ingreso principal al Centro Departamental de Vigilancia Información y
+Referencia de ITS/ VIH/ SIDA (CDVIR) Cochabamba, Crédito: Revista Muy Waso]({{ site.baseurl }}/assets/img/Puerta de ingreso principal al Centro Departamental de Vigilancia Información y Referencia de ITS VIH SIDA (CDVIR) Cochabamba, Crédito Revista Muy Waso.jpg)
 
 Según Gonzalo Borda, responsable del PNVIH, se trata de un apoyo temporal por la emergencia. “Hay equipos en algunos departamentos donde solo ocupan el 15 o 20% de su capacidad, entonces pueden ayudar a detectar casos de COVID-19. Se usan los mismos equipos, pero con otros reactivos. No quiere decir que los equipos se estén destinando solo a COVID-19”, detalla.  
 
@@ -32,6 +39,9 @@ Una de las principales demandas del colectivo de personas seropositivas en Boliv
 Actualmente, Santiny y su hija viven separados, a más de 700 kilómetros de distancia. Él trabaja en Cochabamba y la niña, que está bajo el cuidado de su tía, vive en Los Yungas (La Paz), a unas ocho horas de distancia de El Alto, donde habitualmente recogían su medicación. Para que la niña cumpla con su tratamiento, su tía ha debido realizar durante la cuarentena viajes hasta El Alto, sorteando puntos de control debido a la orden de inmovilización social entre departamentos y haciendo largos trechos a pie. Gracias a esos sacrificios, la pequeña cuenta con sus medicinas hasta el mes de octubre. 
 
 Aunque se intentó gestionar otras formas de conseguir el tratamiento para la menor, todo fue en vano, explica Santiny. “Hemos hecho algunos trámites virtuales para que puedan enviar medicamentos hasta mi pueblo, a un hospital cercano, pero no se pudo”, dice con frustración. 
+
+{:.image-post}
+![Ingreso alternativo al único hospital de tercer nivel de Cochabamba, Bolivia.  Crédito: Revista Muy Waso ]({{ site.baseurl }}/assets/img/Ingreso alternativo al único hospital de tercer nivel de Cochabamba, Bolivia 2.  Crédito Revista Muy Waso.jpg)
 
 En el contexto de la pandemia, la Redbol exigió a las autoridades sanitarias que se entregue a los pacientes sus fármacos por seis meses para disminuir el riesgo de contagio de COVID-19 y evitar desfases en los tratamientos debido a las restricciones de movilización. Sus demandas no han sido escuchadas.
 
@@ -49,6 +59,10 @@ El funcionamiento de los CDVIR depende también de los insumos de bioseguridad y
 
 El contagio del personal de salud afecta a quienes viven con VIH, ya que, al ser puestos estos en aislamiento, dejan de atender a sus pacientes, privandolos del derecho que tienen por ley a recibir atención médica. “He ido al CDVIR y he podido constatar que los dos médicos de cabecera que nos atienden no están trabajando, solo está una licenciada de enfermería y la responsable de farmacia. El resto del personal no está”, relata Cartagena.
 
+{:.image-post}
+![Instalaciones del Centro Departamental de Vigilancia Información y Referencia de ITS/ VIH/ SIDA (CDVIR)  de la ciudad de Cochabamba, Bolivia.  Crédito: Defensoría del Pueblo]({{ site.baseurl }}/assets/img/Puerta de ingreso principal al Centro Departamental de Vigilancia Información y Referencia de ITS VIH SIDA (CDVIR) Cochabamba 2, Crédito Revista Muy Waso.jpg)
+
+
 “Me han llamado varias compañeras y compañeros, quejándose de que están mal, no por el COVID-19, sino por otras patologías que son consecuencias de vivir con el VIH, pero no se ha podido hacer nada”, lamenta.
 
 Por su parte, Borda asegura que no hay problemas en la atención. Aunque con horarios reducidos, todos los CDVIR están abiertos, refiere. “Santa Cruz es donde menos problemas hay, porque la atención está desconcentrada, entonces tienen donde ir a recoger sus medicamentos. No hay problemas de fondo ni de desabastecimiento”, afirma. 
@@ -60,3 +74,6 @@ Según Borda, a la fecha se le ha informado de 10 o 12 casos de pacientes con VI
 Las personas que viven con VIH no tienen mayor riesgo de contagio por coronavirus, según ONUSIDA. Sin embargo, el recorte de sus recursos para la atención del COVID-19 sí pone en dificultades su tratamiento. “Lo que tienen que entender las autoridades es que no se puede responder a la pandemia de COVID-19 usando los recursos para otras enfermedades, porque estas siguen ahí”, asevera Violeta Ross, presidenta de la Red Nacional de Personas Viviendo con el VIH y SIDA en Bolivia (RedBol). 
 
 Esta organización se fundó hace 20 años y entre sus logros está la Ley del VIH que protege los derechos humanos de las personas que viven con VIH y garantiza su acceso a medicamentos y atención médica. Han sido dos décadas de una lucha que hoy también debe hacerle frente a un virus desconocido para la humanidad. No obstante, Violeta asegura que no se rendirán para “rescatar, proteger, salvar y mantener los logros en respuesta a la epidemia del VIH/sida”. 
+
+{:.image-post}
+![Obituarios a personal fallecido durante la pandemia en el ingreso principal del Hospital Viedma de Cochabamba, Bolivia.  Crédito: Revista Muy Waso]({{ site.baseurl }}/assets/img/Obituarios a personal fallecido durante la pandemia en el ingreso principal del Hospital Viedma de Cochabamba, Bolivia.  Crédito Revista Muy Waso.jpg)

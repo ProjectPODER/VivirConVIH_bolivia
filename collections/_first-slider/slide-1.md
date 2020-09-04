@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: graphic-example1.png
+audio: VIRGINIA HILAQUITA-LA PAZ.mp3
 ---
 
 # Virginia Hilaquita
