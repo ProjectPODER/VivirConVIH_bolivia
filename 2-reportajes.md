@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Reportajes
+published: false
 permalink: /reportajes/
 ---
 

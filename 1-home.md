@@ -13,7 +13,7 @@ Personas que viven con el VIH/SIDA en Bolivia (RedBol), una organización que de
 hace 20 años lucha por los derechos de quienes portan el virus de inmunodeficiencia
 humana.
 
-[Reportaje](/2018/11/27/reportaje.html)
+[Reportaje](/2020/09/22/reportaje.html)
 [Entrevista](/entrevista/)
 [Testimonios](/testimonios/)
 [Contratos](/contratos/)
