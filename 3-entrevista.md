@@ -6,7 +6,9 @@ permalink: /entrevista/
 
 # “Las autoridades de Santa Cruz no nos han ayudado para nada”
 
-Los miembros de la Asociación Civil Un Nuevo Camino y la Red de Hombres Gay y Bisexuales Positivos en Santa Cruz unieron esfuerzos para hacer que los fármacos que requieren decenas de personas con el VIH lleguen a sus casas y no descuiden así su tratamiento.  
+**Los miembros de la Asociación Civil Un Nuevo Camino y la Red de Hombres Gay y Bisexuales Positivos en Santa Cruz unieron esfuerzos para hacer que los fármacos que requieren decenas de personas con el VIH lleguen a sus casas y no descuiden así su tratamiento.**  
+
+*Por Michelle Nogales • Septiembre 22, 2020* 
 
 Ante las fallas del Estado para brindarles atención médica y garantizar el acceso a sus tratamientos, las personas que viven con el VIH en Bolivia se organizaron en la pandemia junto a una red de apoyo. A lo largo del país se dieron iniciativas en las que sus amigos, familiares, activistas y líderes regionales enfrentaron el miedo al nuevo coronavirus para realizar actos solidarios con quienes más los necesitaran.
 
