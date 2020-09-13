@@ -6,7 +6,7 @@ audio: JUAN-CARLOS-CHUMACERO-TARIJA.mp3
 # Juan Carlos Chumacero
 ### Representante de RedBol en Tarija
 
-Tarija es una ciudad pequeña y el tabú de hablar sobre un diagnóstico VIH positivo aún es muy grande. Yo soy una persona pública, no tengo miedo de decir que vivo con el VIH, pero hay otros compañeros que no pueden hacer lo mismo y se ven obligados a pasar por algunas dificultades, especialmente para acceder a sus tratamientos.
+Tarija es una ciudad pequeña y el tabú de hablar sobre un diagnóstico seropositivo aún es muy grande. Yo soy una persona pública, no tengo miedo de decir que vivo con VIH, pero hay otros compañeros que no pueden hacer lo mismo y se ven obligados a pasar por algunas dificultades, especialmente para acceder a sus tratamientos.
 
 Lamentablemente, en Tarija todavía hay un estigma sobre las personas que viven con VIH y, en medio de los controles por la pandemia, es muy complicado estar justificando nuestra condición ante cualquier tipo de consulta de las autoridades. Para ir a recoger nuestros medicamentos debemos pasar varios retenes y controles, es incómodo tener que inventar excusas o tener que romper la confidencialidad para evitar problemas.
 
