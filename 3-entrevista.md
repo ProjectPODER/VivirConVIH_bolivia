@@ -6,7 +6,7 @@ permalink: /entrevista/
 
 # “Las autoridades de Santa Cruz no nos han ayudado para nada”
 
-**Los miembros de la Asociación Civil Un Nuevo Camino y la Red de Hombres Gay y Bisexuales Positivos en Santa Cruz unieron esfuerzos para hacer que los fármacos que requieren decenas de personas con el VIH lleguen a sus casas y no descuiden así su tratamiento.**  
+**_Los miembros de la Asociación Civil Un Nuevo Camino y la Red de Hombres Gay y Bisexuales Positivos en Santa Cruz unieron esfuerzos para hacer que los fármacos que requieren decenas de personas con el VIH lleguen a sus casas y no descuiden así su tratamiento._**  
 
 *Por Michelle Nogales • Septiembre 22, 2020* 
 
