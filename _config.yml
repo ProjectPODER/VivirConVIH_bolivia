@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: Vivir con VIH Bolivia
 
 # Logo image
 image: vih-bolivia.png
 
 #Description of your site
 description: >-
-  TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
+  Durante la pandemia se ha registrado falta de atención médica en diversos centros especializados para pacientes seropositivos, acceso limitado a su medicinas y retrasos en la realización de pruebas de control.
 
 # URL of your contracts file or API endpoint
 contracts_url: "https://landing.vivirconvih.org/assets/data/vih_bolivia.csv"
