@@ -7,7 +7,7 @@ permalink: /
 # Bolivia: la lucha contra el VIH pierde terreno frente al COVID-19
 
 {:.arrow-down}
-![Scroll](https://landing.vivirconvih.org/assets/img/arrow-down.svg)
+![Scroll](https://vivirconvih.org/assets/img/arrow-down.svg)
 
 Durante la pandemia se ha registrado falta de atención médica en diversos centros
 especializados para pacientes seropositivos, acceso limitado a su medicinas y retrasos
