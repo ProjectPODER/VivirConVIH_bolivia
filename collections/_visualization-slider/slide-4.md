@@ -7,4 +7,4 @@ Siendo el país, de los seis analizados, que compra de forma más eficiente, Bol
 
 Así mismo también debe fomentar la transparencia y rendición de cuentas en todo el proceso para promoveer la participación ciudadana y seguir mejorando el Derecho a la Salud de la ciudadanía.
 
-[VER INFORME COMPLETO]()
+[VER INFORME COMPLETO](https://vivirconvih.org/assets/informevivirconvih.pdf)
