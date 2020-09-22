@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: visualizacion3.jpg
 ---
 
 

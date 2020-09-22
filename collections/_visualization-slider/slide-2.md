@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: visualizacion2.jpg
 ---
 
 De las compras de ARV en el período analizado, el 100% de las adquisiciones fueron hechas por medio de proveedores internacionales, lo cual le permite a Bolivia adquirir sus medicamentos a un costo relativamente bajo en comparación con otros países. 

@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: visualizacion4.jpg
 ---
 
 Siendo el país, de los seis analizados, que compra de forma más eficiente, Bolivia, debería iniciar un proceso para fortalecer la producción local de medicamentos ARV a precios competitivos para fortalecer su seguridad médica y evitar problemas en la cadena de subministro. 
