@@ -6,6 +6,8 @@ author: "Michelle Nogales, Esther Mamani y Mijail Miranda"
 {:.image-post}
 ![Bolivia: la lucha contra el VIH pierde terreno frente al COVID-19]({{ site.baseurl }}/assets/img/BOLIVIA.jpg)
 
+Este reportaje también se publicó en [Muy Waso](https://muywaso.com/bolivia-la-lucha-contra-el-vih-pierde-terreno-frente-a-la-covid-19/).
+
 La pandemia suma más de cien mil contagios y más de 4 mil muertos en Bolivia hasta la fecha. La emergencia sanitaria ha llevado a que el gobierno reasigne personal, equipos y presupuesto destinados a otras enfermedades para contener la covid-19. Sin embargo, esta decisión deja en segundo plano a la epidemia del VIH que también afecta a un sector importante de la población. De hecho, el número de pacientes seropositivos es mayor que el de los muertos oficiales por coronavirus: 19 mil, según el más reciente informe mundial del Programa Conjunto de las Naciones Unidas sobre el VIH/sida (UNAIDS). De ese total, solo 11.639 están en tratamiento. 
 
 El 19 de junio, mes en el que el país alcanzaba el pico más alto de contagios, la Red Nacional de Personas que viven con el VIH/SIDA en Bolivia (RedBol) hizo [una denuncia pública](https://www.facebook.com/permalink.php?story_fbid=1444591062410518&id=711093285760303) sobre la transferencia de 300 mil dólares para la atención del COVID-19 provenientes de los fondos de subvención del Programa Nacional para personas seropositivas. Dicho presupuesto se usó en la compra de aparatos GeneXpert para diagnosticar COVID-19, equipos de protección personal y de bioseguridad, así como para atender gastos de transporte de muestras, entre otros. 
